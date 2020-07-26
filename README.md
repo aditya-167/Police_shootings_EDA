@@ -6,7 +6,7 @@ The FBI and the Centers for Disease Control and Prevention log fatal shootings b
 1. Installation
 2. Project Motivation
 3. File Description
-4. Results
+4. Results (Blog Post)
 
 
 ### 1. Installation
