@@ -6,7 +6,7 @@ The FBI and the Centers for Disease Control and Prevention log fatal shootings b
 1. Installation
 2. Project Motivation
 3. File Description
-4. Results
+4. Results (Blog Post)
 
 
 ### 1. Installation
@@ -37,12 +37,14 @@ I am using the dataset to find insights on how shootings are distributed among t
 4. environment.yaml (For environemnt installation)
 4. README.md
 
-### 4. Results
+### 4. Results (Blog Post)
 
 The main findings of the project can be found at the post available [here](https://medium.com/@adityasrichandan3098/analysing-fatal-shootings-by-the-police-in-united-states-6794fc3650ad).
 
 ### Licensing, Authors, Acknowledgements
 
 Source- Kaggle Police shooting dataset (https://www.kaggle.com/mrmorj/data-police-shootings). 
+
 Author- Andriy Samoshin
+
 License- CC BY-SA 4.0 [here](https://creativecommons.org/licenses/by-sa/4.0/)
