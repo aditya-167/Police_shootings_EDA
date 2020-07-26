@@ -44,5 +44,7 @@ The main findings of the project can be found at the post available [here](https
 ### Licensing, Authors, Acknowledgements
 
 Source- Kaggle Police shooting dataset (https://www.kaggle.com/mrmorj/data-police-shootings). 
+
 Author- Andriy Samoshin
+
 License- CC BY-SA 4.0 [here](https://creativecommons.org/licenses/by-sa/4.0/)
