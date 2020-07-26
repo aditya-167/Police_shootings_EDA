@@ -37,7 +37,7 @@ I am using the dataset to find insights on how shootings are distributed among t
 4. environment.yaml (For environemnt installation)
 4. README.md
 
-### 4. Results
+### 4. Results (Blog Post)
 
 The main findings of the project can be found at the post available [here](https://medium.com/@adityasrichandan3098/analysing-fatal-shootings-by-the-police-in-united-states-6794fc3650ad).
 
